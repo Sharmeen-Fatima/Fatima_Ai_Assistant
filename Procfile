@@ -1,0 +1,1 @@
+web: chainlit run main.py -h --port 8000
