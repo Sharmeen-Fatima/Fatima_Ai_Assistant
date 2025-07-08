@@ -1,3 +1,11 @@
-chainlit
+# Chainlit core
+chainlit>=1.0.0
+
+# For environment variable loading
 python-dotenv
-openai
+
+# For type hinting and backward compatibility
+typing_extensions
+
+# If using Google Gemini via OpenAI-compatible endpoint
+httpx
