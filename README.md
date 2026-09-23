@@ -238,7 +238,7 @@ Your feedback helps support continuous learning and improvement.
 📅 **Last Updated:** *23 September 2026*
 
 * **📫 Feel free to reach out:** ✉️ [Creativecoderpakistan@gmail.com](mailto:Creativecoderpakistan@gmail.com)
-* ***✒ For more information about Docker and updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X).*****
+* ***✒ For more information about AI and updates Join **[Whatsapp Channel](https://whatsapp.com/channel/0029VbAqY7w002TIRJYUHG3X).*****
 
 ***“Learning never stops — stay curious, stay creative!”***
 
